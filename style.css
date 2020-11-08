@@ -1,0 +1,57 @@
+body 
+{
+
+	background: #ffff8c;
+
+}
+
+.container 
+{
+
+	width: 1000px;
+	height: 500px;
+	margin: 50px auto 200px auto;
+
+}
+.entry
+{
+
+	border: 1px solid #fff;
+	border-radius: 10px;
+	background: #fff;
+	width: 500px;
+	height: auto;
+	margin: 50px auto;
+
+}
+.menu {
+
+	
+
+}
+form
+{
+	padding: 50px 70px;
+}
+
+label
+{
+	font-weight: bold;
+}
+
+.login
+{
+	height: 30px;
+	width: 350px;
+}
+
+.address
+{
+	
+	width: 350px;
+
+.btn-submit
+{
+	width: 90px;
+	height: 30px;
+}
